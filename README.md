@@ -15,9 +15,7 @@ This application is my updated portfolio with some of my currrent work. The page
 
 ## Screenshots and GIFs
 
-![Portfolio](<./assets/Images/Screenshot%20(52).png>)
-
-![GIF](./assets/Images/Untitled_%20Apr%2018%2C%202022%2010_16%20PM.gif)
+![Portfolio](<./assets/Screenshot%20(124).png>)
 
 ## License
 
